@@ -1,0 +1,10 @@
+{
+  "name": "cardapio",
+  "description": "",
+  "devDependencies": {
+    "tailwindcss": "^3.4.3"
+  },
+  "scripts": {
+    "dev": "npx tailwindcss -i ./CSS/style.css -o ./CSS/output.css --watch"
+  }
+}
