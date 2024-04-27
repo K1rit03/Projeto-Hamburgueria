@@ -39,3 +39,6 @@ Para executar o projeto localmente, siga estas etapas:
 Contribuições são bem-vindas! Se você encontrar algum problema ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
 
+![hamburgueria menu1](https://github.com/K1rit03/Projeto-Hamburgueria/assets/80282965/9815c2d7-c806-44e1-99d4-6f92859eb895)
+![Hamburgueria menu2](https://github.com/K1rit03/Projeto-Hamburgueria/assets/80282965/839805c5-9f06-430a-9b6d-a3401d852a87)
+![hamburgueria modal](https://github.com/K1rit03/Projeto-Hamburgueria/assets/80282965/fc30e76f-e735-4699-b7e6-59c28b2cc222)
